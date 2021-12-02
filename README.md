@@ -16,6 +16,10 @@ composer install
 php artisan server
 ```
 
+## Demo
+
+![movieApp1](https://youtu.be/URclHOGNUH8)
+
 ## Screenshot
 
 ![movieApp1](https://user-images.githubusercontent.com/28990981/144425069-dfc85bda-50b7-4feb-89dd-fb3e65555afe.png)
