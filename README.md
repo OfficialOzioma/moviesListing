@@ -18,7 +18,7 @@ php artisan server
 
 ## Demo
 
-![movieApp1](https://youtu.be/URclHOGNUH8)
+[![Alt text](https://user-images.githubusercontent.com/28990981/144425069-dfc85bda-50b7-4feb-89dd-fb3e65555afe.png)](https://www.youtube.com/watch?v=VID)
 
 ## Screenshot
 
