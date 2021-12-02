@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 # THE MOVIE APP
 
 The MovieApp is a Laravel project that gets Movies Actors and TV show details from an API call, this Laravel application uses the themoviedb.org APIs to get the details of the movie
